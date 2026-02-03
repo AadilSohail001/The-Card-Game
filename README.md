@@ -1,11 +1,11 @@
 # React + Vite
 
-🃏 The Card Game — React
-📌 Project Description
+## 🃏 The Card Game — React
+## 📌 Project Description
 
 The Card Game is a desktop-first Single Page Application (SPA) built with React. It demonstrates core frontend concepts such as state management, conditional rendering, sorting, selection handling, and asynchronous data submission.
 
-✅ Features
+## ✅ Features
 
 Single Page Application using React
 
@@ -23,7 +23,7 @@ Submit selected card as JSON (mocked AJAX)
 
 Desktop-first layout
 
-🧱 Project Structure
+## 🧱 Project Structure
 src/
 ├── App.jsx
 ├── data.js
@@ -34,7 +34,7 @@ src/
 │ ├── Details.jsx
 │ └── Controls.jsx
 
-🔁 User Flow
+## 🔁 User Flow
 
 Cards are displayed in the overview section
 
@@ -46,14 +46,14 @@ User sorts cards if needed
 
 Selected card is submitted as JSON
 
-📤 Sample Submitted JSON
+## 📤 Sample Submitted JSON
 {
 "realName": "Brianna Forbes",
 "playerName": "Dreamlurk The Unstoppable",
 "asset": "Foghammer Lead"
 }
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 React 18
 
@@ -63,11 +63,11 @@ CSS
 
 Mocked AJAX submission
 
-▶️ How to Run
+## ▶️ How to Run
 npm install
 npm run dev
 
-📄 License
+## 📄 License
 
 This project is for educational and demonstration purposes.
 
